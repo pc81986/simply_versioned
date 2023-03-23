@@ -1,1 +1,1 @@
-ultralytics 8.1.19 PNNX aarch64 linux fix (#8480)
+ultralytics 8.1.8 new model.save('filename.pt') method (#7886)
