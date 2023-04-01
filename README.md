@@ -1,1 +1,1 @@
-Add C++ Classify inference example (#6868)
+Fix Neural Magic links (#9144)
