@@ -1,1 +1,1 @@
-Add TF GraphDef Docs Integrations Page (#9203)
+ultralytics 8.1.3 ResNet models and lighter dependencies (#7700)
