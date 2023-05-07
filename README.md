@@ -1,1 +1,1 @@
-docs: update view-results-in-terminal.md (#66)
+Fixed RTDETR GFLOPs bug (#7309)
