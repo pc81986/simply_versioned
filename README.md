@@ -1,1 +1,1 @@
-Fixed RTDETR GFLOPs bug (#7309)
+Add type hinting to explorer.py (#7388)
