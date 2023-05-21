@@ -1,1 +1,1 @@
-Add OBB save_txt feature (#7450)
+Add settings runs_dir == datasets_dir warning (#8653)
