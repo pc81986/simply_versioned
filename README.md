@@ -1,1 +1,1 @@
-ultralytics 8.0.235 YOLOv8 OBB train, val, predict and export (#4499)
+ultralytics 8.1.18 add cmake for building onnxsim on aarch64 (#8395)
