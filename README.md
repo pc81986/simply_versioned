@@ -1,1 +1,1 @@
-ultralytics 8.0.224 Counting and Heatmaps updates (#6855)
+YOLOv8.1 blog, Explorer notebook and 2023 > 2024 updates (#7469)
