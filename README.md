@@ -1,1 +1,1 @@
-Fix xyxyxyxyn calculation, swap axis (#8249)
+Replace onnx2tf usage from CLI to Python (#8429)
