@@ -1,1 +1,1 @@
-added badges (#45)
+Embed Heatmaps YouTube video in Ultralytics Docs (#7129)
