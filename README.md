@@ -1,1 +1,1 @@
-Expand Model method type hinting (#8279)
+YAML reformat (#7669)
