@@ -1,1 +1,1 @@
-ultralytics 8.1.11 expand OpenVINO INT8 ops for improved mAP (#7516)
+Bump github/codeql-action from 2 to 3 in /.github/workflows (#7041)
