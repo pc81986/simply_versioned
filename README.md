@@ -1,1 +1,1 @@
-Merge pull request #22 from SkalskiP/patch-1
+Fix IS_PYTHON_3_12 bug (#9258)
