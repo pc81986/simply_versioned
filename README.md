@@ -1,1 +1,1 @@
-ultralytics 8.0.230 TensorRT export hang fix (#7180)
+ultralytics 8.1.24 new OpenVINO 2023.3 export updates (#8417)
