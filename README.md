@@ -1,1 +1,1 @@
-Use pathlib in DOTA ops (#7552)
+Update fraction arg to employ a random selection (#8234)
