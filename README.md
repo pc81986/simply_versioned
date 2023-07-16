@@ -1,1 +1,1 @@
-Optimize function calls to method calls (#8507)
+Move Explorer tests to scheduled CI (#8305)
