@@ -1,1 +1,1 @@
-Update Twitter icon in Docs (#7711)
+Update format.yml to pull_request_target (#7460)
