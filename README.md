@@ -1,1 +1,1 @@
-Update docs building code (#7601)
+New test for labels and crops (#8861)
