@@ -1,1 +1,1 @@
-New test for labels and crops (#8861)
+OBB: Fix when training on zip data (#8680)
