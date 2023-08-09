@@ -1,1 +1,1 @@
-OBB: Fix when training on zip data (#8680)
+Add C++ Classify inference example (#6868)
