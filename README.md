@@ -1,1 +1,1 @@
-Add C++ Classify inference example (#6868)
+ultralytics 8.0.227 respect defaults.yaml data (#6935)
