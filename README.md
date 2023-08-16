@@ -1,1 +1,1 @@
-Add horizontal Mosaic3 augmentation (#6898)
+ultralytics 8.0.229 add model.embed() method (#7098)
