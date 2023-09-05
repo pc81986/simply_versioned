@@ -1,1 +1,1 @@
-Add dota8.yaml and O tests (#7394)
+Added check of parameter type before setting required_grad=True for frozen layers (#8318)
