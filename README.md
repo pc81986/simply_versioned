@@ -1,1 +1,1 @@
-Embed Heatmaps YouTube video in Ultralytics Docs (#7129)
+Try Apple M1 runners for Tests and Benchmarks CI (#8162)
