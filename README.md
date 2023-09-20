@@ -1,1 +1,1 @@
-Add CoreML Docs Integrations Page (#8063)
+Update Colab notebook for YOLOv8.1 (#8660)
