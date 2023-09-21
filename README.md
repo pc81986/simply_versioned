@@ -1,1 +1,1 @@
-Improve Docs arguments tables (#8415)
+Download Manager - Extensive enhancements to the downloading functionality of Safari, check the preference page for more detailed info
