@@ -1,1 +1,1 @@
-Replacing Images for torchscript.md (#8596)
+Add docstrings to new HUB functions (#7576)
