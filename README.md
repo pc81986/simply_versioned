@@ -1,1 +1,1 @@
-Conda cv2 ImportError libEGL.so.1 fix (#9255)
+Try Apple M1 runners for Tests and Benchmarks CI (#8162)
