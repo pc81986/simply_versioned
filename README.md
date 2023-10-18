@@ -1,1 +1,1 @@
-Update Colab notebook for YOLOv8.1 (#8660)
+ultralytics 8.1.25 OpenVINO LATENCY and THROUGHPUT modes (#8058)
