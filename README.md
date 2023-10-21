@@ -1,1 +1,1 @@
-ultralytics 8.0.225 multi-video tracker bug fix (#6862)
+Add polygon regions drawing support in object-counting.md and minor docs update (#8885)
