@@ -1,1 +1,1 @@
-Add https://youtu.be/96NkhsV-W1U to docs and heatmaps fix (#7944)
+Compress explorer image in dataset/index.md + description added for new segmentation datasets (#7901)
