@@ -1,1 +1,1 @@
-Fix test_mlflow_keep_run_active() (#8868)
+Merge pull request #22 from SkalskiP/patch-1
