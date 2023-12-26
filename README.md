@@ -1,1 +1,1 @@
-ultralytics 8.1.21 Add YOLOv8-World-v2 models (#8580)
+Embed videos in Docs pages using Parent pages for relevant segments (#6877)
