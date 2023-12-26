@@ -1,1 +1,1 @@
-Auto-format by https://ultralytics.com/actions
+Add yolo_bbox2segment docs reference (#7751)
