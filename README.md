@@ -1,1 +1,1 @@
-Add HUB-SDK Docs reference section (#7781)
+Fix names bug when exporting YOLOv8-World to ONNX (#8941)
