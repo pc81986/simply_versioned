@@ -1,1 +1,1 @@
-Update Discord and Contributing Guide URLs (#9270)
+Add line counting and circular heatmaps in Ultralytics Solutions (#7113)
