@@ -1,1 +1,1 @@
-ultralytics 8.0.231 use new pyproject.toml (#7185)
+Integrate OpenVINO CUMULATIVE_THROUGHPUT mode batched inference (#8834)
