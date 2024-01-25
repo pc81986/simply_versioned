@@ -1,1 +1,1 @@
-fix resume training
+Update neural-magic.md (#7347)
