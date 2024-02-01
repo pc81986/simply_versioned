@@ -1,1 +1,1 @@
-Improve Docs Modes tables (#8266)
+Add https://youtu.be/R42s2zFtNIY to hub/datasets.md and CoreML image fix (#8085)
