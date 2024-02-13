@@ -1,1 +1,1 @@
-ultralytics 8.1.9 replace .size(0) with .shape[0] (#7957)
+ultralytics 8.0.231 use new pyproject.toml (#7185)
