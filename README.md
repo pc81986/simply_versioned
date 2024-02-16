@@ -1,1 +1,1 @@
-Fix PNNX ubuntu -> linux bug (#7050)
+Allow Annotator PIL.Image inputs (#8397)
