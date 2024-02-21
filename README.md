@@ -1,1 +1,1 @@
-ultralytics 8.1.25 OpenVINO LATENCY and THROUGHPUT modes (#8058)
+ultralytics 8.0.235 YOLOv8 OBB train, val, predict and export (#4499)
