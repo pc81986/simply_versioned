@@ -1,1 +1,1 @@
-Retry once for Docker CI failures (#8164)
+OpenVino 2024.0.0 (#8726)
