@@ -1,1 +1,1 @@
-Clean up unused imgsz (#7771)
+Retry once for Docker CI failures (#8164)
