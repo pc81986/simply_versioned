@@ -1,1 +1,1 @@
-Add OBB benchmarks to CI (#7777)
+Improve Coral Edge TPU guide (#8160)
