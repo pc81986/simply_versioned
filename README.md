@@ -1,1 +1,1 @@
-Bounding Box to OBB conversion (#7572)
+Replace onnx2tf usage from CLI to Python (#8429)
