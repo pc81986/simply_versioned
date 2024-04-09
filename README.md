@@ -1,1 +1,1 @@
-Update Docs Home and Neural Magic pages (#7243)
+Add TFLite Edge TPU Docs Integrations Page  (#8900)
