@@ -1,1 +1,1 @@
-Add TFLite Edge TPU Docs Integrations Page  (#8900)
+Fix an issue with flatbuffer version for Raspberry Pi (#8311)
