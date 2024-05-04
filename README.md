@@ -1,1 +1,1 @@
-Update CI.md with CI links (#8786)
+ultralytics 8.0.239 Ultralytics Actions and hub-sdk adoption (#7431)
