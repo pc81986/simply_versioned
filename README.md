@@ -1,1 +1,1 @@
-Elaborate Train and Predict mode docs arguments (#8137)
+Compress explorer image in dataset/index.md + description added for new segmentation datasets (#7901)
