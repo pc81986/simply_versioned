@@ -1,1 +1,1 @@
-Add distance calculation feature in vision-eye (#8616)
+Fix device counting method to account for double-digit device IDs (#8502)
