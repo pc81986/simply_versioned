@@ -1,1 +1,1 @@
-Model typehints Docker fix (#8306)
+Ultralytics Actions with OpenAI GPT-4 PR Summary (#7867)
