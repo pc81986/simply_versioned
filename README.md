@@ -1,1 +1,1 @@
-Add missing single-line docstrings (#8362)
+Model typehints Docker fix (#8306)
