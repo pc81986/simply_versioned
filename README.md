@@ -1,1 +1,1 @@
-Fix PNNX ubuntu -> linux bug (#7050)
+Update Discord and Contributing Guide URLs (#9270)
