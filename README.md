@@ -1,1 +1,1 @@
-Add Amazon Sagemaker Docs integrations page (#7293)
+Add polygon regions drawing support in object-counting.md and minor docs update (#8885)
