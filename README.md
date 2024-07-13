@@ -1,1 +1,1 @@
-Add dota8.yaml and O tests (#7394)
+New HUB Cloud Training docs page (#8174)
