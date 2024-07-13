@@ -1,1 +1,1 @@
-New HUB Cloud Training docs page (#8174)
+Biometric Protection - Require TouchID / FaceID verification for switching browsing modes, locking tabs, unlocking tabs or accessing locked tabs
