@@ -1,1 +1,1 @@
-Mkdocs annotations fixes (#7600)
+Fix TypeError in check_cfg() (#9245)
