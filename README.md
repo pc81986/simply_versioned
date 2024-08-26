@@ -1,1 +1,1 @@
-Conda cv2 ImportError libEGL.so.1 fix (#9255)
+Add HeatMap guide in real-world-projects + Code in Solutions Directory (#6796)
