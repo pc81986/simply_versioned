@@ -1,1 +1,1 @@
-Desktop Mode Switch - A switch inside the tab switcher that can be used to toggle desktop mode on / off globally
+Add instance segmentation and vision-eye mapping in Docs + Fix minor code bug in other real-world-projects (#6972)
