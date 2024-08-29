@@ -1,1 +1,1 @@
-Add missing single-line docstrings (#8362)
+Avoid creating -hub dir without processing images (#8334)
