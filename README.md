@@ -1,1 +1,1 @@
-Add yolo_bbox2segment docs reference (#7751)
+Pin jax and jaxlib to fix tensorflowjs exports (#6988)
