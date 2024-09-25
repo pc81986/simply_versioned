@@ -1,1 +1,1 @@
-Add object blurring & object cropping modules in Ultralytics docs (#7434)
+ultralytics 8.0.225 multi-video tracker bug fix (#6862)
