@@ -1,1 +1,1 @@
-Auto-format by https://ultralytics.com/actions
+Fix cmake requirements for ARM64 (#8589)
