@@ -1,1 +1,1 @@
-Docs partial mdformat improvements (#7378)
+Avoid creating -hub dir without processing images (#8334)
