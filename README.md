@@ -1,1 +1,1 @@
-Model typehints Docker fix (#8306)
+ultralytics 8.1.34 Inference API robust imgsz checks (#9274)
